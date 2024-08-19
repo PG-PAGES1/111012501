@@ -1,0 +1,20 @@
+
+sym_bg.png
+size: 966,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_ball_glow_fx
+  rotate: true
+  xy: 482, 2
+  size: 147, 482
+  orig: 149, 499
+  offset: 1, 8
+  index: -1
+s_lion_glow_fx
+  rotate: true
+  xy: 2, 2
+  size: 147, 478
+  orig: 149, 499
+  offset: 2, 11
+  index: -1

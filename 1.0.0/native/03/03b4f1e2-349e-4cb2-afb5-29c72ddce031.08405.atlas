@@ -1,0 +1,55 @@
+
+ib.jpg
+size: 787,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame_glow_a
+  rotate: false
+  xy: 549, 1
+  size: 226, 43
+  orig: 226, 43
+  offset: 0, 0
+  index: -1
+frame_glow_b
+  rotate: false
+  xy: 282, 13
+  size: 208, 68
+  orig: 208, 68
+  offset: 0, 0
+  index: -1
+glow_a
+  rotate: false
+  xy: 282, 83
+  size: 316, 51
+  orig: 316, 51
+  offset: 0, 0
+  index: -1
+glow_a_info
+  rotate: false
+  xy: 600, 63
+  size: 186, 71
+  orig: 186, 71
+  offset: 0, 0
+  index: -1
+glow_b_info
+  rotate: true
+  xy: 549, 46
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+glow_c_info
+  rotate: true
+  xy: 492, 16
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+light_a
+  rotate: false
+  xy: 1, 14
+  size: 279, 120
+  orig: 279, 120
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,98 @@
+
+s_wild.png
+size: 468,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame
+  rotate: true
+  xy: 2, 548
+  size: 230, 237
+  orig: 230, 237
+  offset: 0, 0
+  index: -1
+fx01
+  rotate: false
+  xy: 241, 558
+  size: 225, 220
+  orig: 226, 221
+  offset: 0, 0
+  index: -1
+fx02
+  rotate: true
+  xy: 2, 316
+  size: 230, 237
+  orig: 230, 237
+  offset: 0, 0
+  index: -1
+fx03
+  rotate: false
+  xy: 241, 338
+  size: 223, 218
+  orig: 223, 219
+  offset: 0, 1
+  index: -1
+fx_burst
+  rotate: true
+  xy: 104, 63
+  size: 146, 133
+  orig: 146, 133
+  offset: 0, 0
+  index: -1
+fx_embers
+  rotate: false
+  xy: 239, 110
+  size: 129, 121
+  orig: 129, 121
+  offset: 0, 0
+  index: -1
+fx_embers1
+  rotate: true
+  xy: 356, 18
+  size: 87, 76
+  orig: 90, 90
+  offset: 3, 8
+  index: -1
+fx_star_particle
+  rotate: false
+  xy: 104, 5
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+wild_cn
+  rotate: false
+  xy: 241, 233
+  size: 207, 103
+  orig: 213, 105
+  offset: 3, 1
+  index: -1
+wild_cnx
+  rotate: false
+  xy: 2, 211
+  size: 207, 103
+  orig: 213, 105
+  offset: 3, 1
+  index: -1
+wildcn_fx01
+  rotate: true
+  xy: 370, 107
+  size: 124, 96
+  orig: 127, 99
+  offset: 1, 1
+  index: -1
+wildcn_fx02
+  rotate: true
+  xy: 2, 11
+  size: 198, 100
+  orig: 207, 104
+  offset: 4, 2
+  index: -1
+wildcn_fx03
+  rotate: false
+  xy: 239, 2
+  size: 115, 103
+  orig: 120, 105
+  offset: 3, 1
+  index: -1
+

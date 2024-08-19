@@ -1,0 +1,307 @@
+
+lion_dance.png
+size: 2003,1896
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lion_dance_jump/lion_dance_jump_01
+  rotate: false
+  xy: 1150, 481
+  size: 200, 298
+  orig: 522, 574
+  offset: 166, 176
+  index: -1
+lion_dance_jump/lion_dance_jump_02
+  rotate: false
+  xy: 1140, 210
+  size: 231, 269
+  orig: 522, 574
+  offset: 155, 178
+  index: -1
+lion_dance_jump/lion_dance_jump_03
+  rotate: true
+  xy: 723, 18
+  size: 268, 310
+  orig: 522, 574
+  offset: 159, 180
+  index: -1
+lion_dance_jump/lion_dance_jump_04
+  rotate: false
+  xy: 520, 462
+  size: 292, 321
+  orig: 522, 574
+  offset: 178, 190
+  index: -1
+lion_dance_jump/lion_dance_jump_05
+  rotate: false
+  xy: 224, 456
+  size: 294, 327
+  orig: 522, 574
+  offset: 218, 211
+  index: -1
+lion_dance_jump/lion_dance_jump_06
+  rotate: true
+  xy: 814, 502
+  size: 277, 334
+  orig: 522, 574
+  offset: 245, 177
+  index: -1
+lion_dance_jump/lion_dance_jump_07
+  rotate: false
+  xy: 1369, 919
+  size: 229, 305
+  orig: 522, 574
+  offset: 293, 168
+  index: -1
+lion_dance_jump/lion_dance_jump_08
+  rotate: false
+  xy: 1, 1
+  size: 225, 296
+  orig: 522, 574
+  offset: 297, 166
+  index: -1
+lion_dance_jump/lion_dance_jump_09
+  rotate: false
+  xy: 1373, 322
+  size: 218, 288
+  orig: 522, 574
+  offset: 304, 167
+  index: -1
+lion_dance_jump/lion_dance_jump_10
+  rotate: true
+  xy: 814, 288
+  size: 212, 324
+  orig: 522, 574
+  offset: 298, 165
+  index: -1
+lion_dance_jump/lion_dance_jump_11
+  rotate: false
+  xy: 489, 96
+  size: 232, 358
+  orig: 522, 574
+  offset: 264, 164
+  index: -1
+lion_dance_jump/lion_dance_jump_12
+  rotate: false
+  xy: 228, 122
+  size: 259, 332
+  orig: 522, 574
+  offset: 229, 196
+  index: -1
+lion_dance_jump/lion_dance_jump_13
+  rotate: false
+  xy: 1352, 612
+  size: 219, 305
+  orig: 522, 574
+  offset: 183, 178
+  index: -1
+lion_dance_jump_ball/lion_dance_jump_ball_01
+  rotate: true
+  xy: 1373, 120
+  size: 200, 204
+  orig: 469, 574
+  offset: 125, 12
+  index: -1
+lion_dance_jump_ball/lion_dance_jump_ball_02
+  rotate: false
+  xy: 1600, 831
+  size: 200, 203
+  orig: 469, 574
+  offset: 126, 11
+  index: -1
+lion_dance_jump_ball/lion_dance_jump_ball_03
+  rotate: true
+  xy: 1035, 7
+  size: 201, 204
+  orig: 469, 574
+  offset: 126, 11
+  index: -1
+lion_dance_jump_ball/lion_dance_jump_ball_04
+  rotate: false
+  xy: 1593, 214
+  size: 200, 203
+  orig: 469, 574
+  offset: 126, 12
+  index: -1
+lion_dance_jump_ball/lion_dance_jump_ball_05
+  rotate: false
+  xy: 1480, 1242
+  size: 200, 204
+  orig: 469, 574
+  offset: 125, 12
+  index: -1
+lion_dance_jump_ball/lion_dance_jump_ball_06
+  rotate: false
+  xy: 1682, 1245
+  size: 200, 204
+  orig: 469, 574
+  offset: 124, 12
+  index: -1
+lion_dance_jump_ball/lion_dance_jump_ball_07
+  rotate: false
+  xy: 1600, 1036
+  size: 200, 204
+  orig: 469, 574
+  offset: 124, 12
+  index: -1
+lion_dance_jump_ball/lion_dance_jump_ball_08
+  rotate: false
+  xy: 1593, 419
+  size: 199, 204
+  orig: 469, 574
+  offset: 124, 12
+  index: -1
+lion_dance_jump_ball/lion_dance_jump_ball_09
+  rotate: false
+  xy: 1573, 625
+  size: 200, 204
+  orig: 469, 574
+  offset: 124, 12
+  index: -1
+lion_dance_jump_ball/lion_dance_jump_ball_10
+  rotate: true
+  xy: 1579, 13
+  size: 199, 204
+  orig: 469, 574
+  offset: 125, 12
+  index: -1
+lion_dance_jump_ball/lion_dance_jump_ball_11
+  rotate: false
+  xy: 1802, 1039
+  size: 200, 204
+  orig: 469, 574
+  offset: 125, 12
+  index: -1
+lion_dance_jump_ball/lion_dance_jump_ball_12
+  rotate: false
+  xy: 1802, 833
+  size: 200, 204
+  orig: 469, 574
+  offset: 125, 12
+  index: -1
+lion_dance_jump_ball/lion_dance_jump_ball_13
+  rotate: false
+  xy: 1775, 626
+  size: 199, 203
+  orig: 469, 574
+  offset: 125, 12
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_01
+  rotate: true
+  xy: 448, 1004
+  size: 222, 461
+  orig: 469, 574
+  offset: 126, 12
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_02
+  rotate: true
+  xy: 903, 781
+  size: 221, 437
+  orig: 469, 574
+  offset: 126, 12
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_03
+  rotate: true
+  xy: 1524, 1671
+  size: 224, 468
+  orig: 469, 574
+  offset: 124, 13
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_04
+  rotate: true
+  xy: 984, 1226
+  size: 220, 494
+  orig: 469, 574
+  offset: 124, 14
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_05
+  rotate: true
+  xy: 472, 1228
+  size: 222, 510
+  orig: 469, 574
+  offset: 123, 14
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_06
+  rotate: true
+  xy: 1006, 1671
+  size: 224, 516
+  orig: 469, 574
+  offset: 123, 14
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_07
+  rotate: false
+  xy: 234, 1377
+  size: 236, 518
+  orig: 469, 574
+  offset: 123, 14
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_08
+  rotate: false
+  xy: 1, 1365
+  size: 231, 530
+  orig: 469, 574
+  offset: 123, 14
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_09
+  rotate: false
+  xy: 1, 299
+  size: 221, 532
+  orig: 469, 574
+  offset: 123, 14
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_10
+  rotate: true
+  xy: 472, 1677
+  size: 218, 532
+  orig: 469, 574
+  offset: 123, 14
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_11
+  rotate: false
+  xy: 1, 833
+  size: 225, 530
+  orig: 469, 574
+  offset: 123, 14
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_12
+  rotate: true
+  xy: 472, 1452
+  size: 223, 526
+  orig: 469, 574
+  offset: 124, 13
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_13
+  rotate: true
+  xy: 1000, 1448
+  size: 221, 513
+  orig: 469, 574
+  offset: 124, 13
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_14
+  rotate: false
+  xy: 228, 870
+  size: 218, 493
+  orig: 469, 574
+  offset: 125, 12
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_15
+  rotate: true
+  xy: 1515, 1451
+  size: 218, 468
+  orig: 469, 574
+  offset: 125, 12
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_16
+  rotate: true
+  xy: 448, 785
+  size: 217, 453
+  orig: 469, 574
+  offset: 126, 11
+  index: -1
+lion_dance_wild_spinning/lion_dance_wild_spinning_17
+  rotate: true
+  xy: 911, 1004
+  size: 220, 456
+  orig: 469, 574
+  offset: 126, 12
+  index: -1

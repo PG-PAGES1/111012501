@@ -1,0 +1,84 @@
+
+s_ball.png
+size: 282,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 2, 137
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+fur
+  rotate: false
+  xy: 146, 216
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+fur02
+  rotate: true
+  xy: 89, 35
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: -1
+fx_shine01
+  rotate: false
+  xy: 146, 70
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+fx_shine02
+  rotate: false
+  xy: 146, 141
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+fx_shine03
+  rotate: true
+  xy: 146, 6
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+fx_shine04
+  rotate: false
+  xy: 219, 150
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+fx_star_particles
+  rotate: false
+  xy: 37, 4
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+fx_zoom
+  rotate: false
+  xy: 2, 27
+  size: 85, 108
+  orig: 85, 108
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 240, 231
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+ribbon02
+  rotate: false
+  xy: 2, 2
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+

@@ -1,0 +1,160 @@
+
+h_kid.png
+size: 999,638
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_kid/h_kid_000
+  rotate: true
+  xy: 319, 502
+  size: 135, 160
+  orig: 196, 245
+  offset: 34, 33
+  index: -1
+h_kid/h_kid_001
+  rotate: true
+  xy: 1, 503
+  size: 134, 159
+  orig: 196, 245
+  offset: 34, 34
+  index: -1
+h_kid/h_kid_002
+  rotate: true
+  xy: 162, 503
+  size: 134, 155
+  orig: 196, 245
+  offset: 34, 34
+  index: -1
+h_kid/h_kid_003
+  rotate: true
+  xy: 481, 501
+  size: 136, 161
+  orig: 196, 245
+  offset: 34, 32
+  index: -1
+h_kid/h_kid_004
+  rotate: true
+  xy: 661, 355
+  size: 143, 167
+  orig: 196, 245
+  offset: 30, 31
+  index: -1
+h_kid/h_kid_005
+  rotate: true
+  xy: 830, 354
+  size: 144, 168
+  orig: 196, 245
+  offset: 29, 30
+  index: -1
+h_kid/h_kid_006
+  rotate: true
+  xy: 494, 358
+  size: 141, 165
+  orig: 196, 245
+  offset: 31, 31
+  index: -1
+h_kid/h_kid_007
+  rotate: true
+  xy: 328, 360
+  size: 139, 164
+  orig: 196, 245
+  offset: 32, 31
+  index: -1
+h_kid/h_kid_008
+  rotate: true
+  xy: 163, 362
+  size: 138, 163
+  orig: 196, 245
+  offset: 33, 32
+  index: -1
+h_kid/h_kid_009
+  rotate: true
+  xy: 806, 500
+  size: 137, 162
+  orig: 196, 245
+  offset: 33, 32
+  index: -1
+h_kid/h_kid_010
+  rotate: true
+  xy: 1, 364
+  size: 137, 160
+  orig: 196, 245
+  offset: 33, 33
+  index: -1
+h_kid/h_kid_011
+  rotate: true
+  xy: 644, 501
+  size: 136, 160
+  orig: 196, 245
+  offset: 34, 33
+  index: -1
+h_kid/h_kid_012
+  rotate: true
+  xy: 1, 214
+  size: 146, 167
+  orig: 196, 245
+  offset: 26, 30
+  index: -1
+h_kid/h_kid_013
+  rotate: true
+  xy: 170, 202
+  size: 156, 179
+  orig: 196, 245
+  offset: 21, 25
+  index: -1
+h_kid/h_kid_014
+  rotate: true
+  xy: 351, 191
+  size: 165, 193
+  orig: 196, 245
+  offset: 19, 20
+  index: -1
+h_kid/h_kid_015
+  rotate: true
+  xy: 1, 28
+  size: 172, 195
+  orig: 196, 245
+  offset: 15, 20
+  index: -1
+h_kid/h_kid_016
+  rotate: true
+  xy: 198, 13
+  size: 176, 194
+  orig: 196, 245
+  offset: 11, 20
+  index: -1
+h_kid/h_kid_017
+  rotate: true
+  xy: 589, 1
+  size: 179, 194
+  orig: 196, 245
+  offset: 8, 20
+  index: -1
+h_kid/h_kid_018
+  rotate: true
+  xy: 785, 1
+  size: 179, 193
+  orig: 196, 245
+  offset: 7, 20
+  index: -1
+h_kid/h_kid_019
+  rotate: true
+  xy: 394, 8
+  size: 176, 193
+  orig: 196, 245
+  offset: 5, 20
+  index: -1
+h_kid/h_kid_020
+  rotate: false
+  xy: 719, 182
+  size: 171, 170
+  orig: 196, 245
+  offset: 4, 33
+  index: -1
+h_kid/h_kid_021
+  rotate: false
+  xy: 546, 186
+  size: 171, 167
+  orig: 196, 245
+  offset: 5, 33
+  index: -1

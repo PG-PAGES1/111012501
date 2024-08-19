@@ -1,0 +1,273 @@
+
+h_drum.png
+size: 481,777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_seq/fx_drum_031
+  rotate: true
+  xy: 356, 69
+  size: 90, 94
+  orig: 309, 669
+  offset: 108, 432
+  index: -1
+_seq/fx_drum_032
+  rotate: false
+  xy: 123, 2
+  size: 97, 101
+  orig: 309, 669
+  offset: 105, 430
+  index: -1
+_seq/fx_drum_033
+  rotate: false
+  xy: 192, 109
+  size: 104, 109
+  orig: 309, 669
+  offset: 101, 427
+  index: -1
+_seq/fx_drum_034
+  rotate: true
+  xy: 244, 290
+  size: 110, 116
+  orig: 309, 669
+  offset: 98, 425
+  index: -1
+_seq/fx_drum_035
+  rotate: false
+  xy: 244, 525
+  size: 116, 121
+  orig: 309, 669
+  offset: 95, 423
+  index: -1
+_seq/fx_drum_036
+  rotate: false
+  xy: 2, 482
+  size: 120, 127
+  orig: 309, 669
+  offset: 93, 421
+  index: -1
+_seq/fx_drum_037
+  rotate: false
+  xy: 176, 648
+  size: 120, 127
+  orig: 309, 669
+  offset: 93, 421
+  index: -1
+_seq/fx_drum_038
+  rotate: false
+  xy: 2, 354
+  size: 120, 126
+  orig: 309, 669
+  offset: 93, 421
+  index: -1
+_seq/fx_drum_039
+  rotate: false
+  xy: 298, 649
+  size: 120, 126
+  orig: 309, 669
+  offset: 93, 421
+  index: -1
+_seq/fx_drum_040
+  rotate: false
+  xy: 2, 227
+  size: 120, 125
+  orig: 309, 669
+  offset: 93, 421
+  index: -1
+_seq/fx_drum_041
+  rotate: false
+  xy: 2, 100
+  size: 119, 125
+  orig: 309, 669
+  offset: 93, 421
+  index: -1
+_seq/fx_drum_042
+  rotate: false
+  xy: 124, 485
+  size: 118, 124
+  orig: 309, 669
+  offset: 94, 421
+  index: -1
+_seq/fx_drum_043
+  rotate: false
+  xy: 124, 361
+  size: 118, 122
+  orig: 309, 669
+  offset: 94, 422
+  index: -1
+_seq/fx_drum_044
+  rotate: false
+  xy: 124, 237
+  size: 116, 122
+  orig: 309, 669
+  offset: 95, 422
+  index: -1
+_seq/fx_drum_045
+  rotate: false
+  xy: 244, 402
+  size: 116, 121
+  orig: 309, 669
+  offset: 95, 422
+  index: -1
+_seq/fx_drum_046
+  rotate: false
+  xy: 362, 526
+  size: 116, 121
+  orig: 309, 669
+  offset: 95, 422
+  index: -1
+_seq/fx_drum_047
+  rotate: false
+  xy: 362, 404
+  size: 116, 120
+  orig: 309, 669
+  offset: 95, 423
+  index: -1
+_seq/fx_drum_048
+  rotate: false
+  xy: 362, 282
+  size: 114, 120
+  orig: 309, 669
+  offset: 96, 423
+  index: -1
+_seq/fx_drum_049
+  rotate: false
+  xy: 362, 161
+  size: 114, 119
+  orig: 309, 669
+  offset: 96, 423
+  index: -1
+drums
+  rotate: false
+  xy: 2, 611
+  size: 172, 164
+  orig: 172, 164
+  offset: 0, 0
+  index: -1
+fx-dust
+  rotate: true
+  xy: 123, 105
+  size: 120, 67
+  orig: 120, 67
+  offset: 0, 0
+  index: -1
+fx-impact
+  rotate: true
+  xy: 222, 2
+  size: 105, 61
+  orig: 108, 61
+  offset: 1, 0
+  index: -1
+fx_stick_01
+  rotate: true
+  xy: 242, 220
+  size: 68, 118
+  orig: 68, 118
+  offset: 0, 0
+  index: -1
+fx_stick_02
+  rotate: true
+  xy: 2, 20
+  size: 78, 115
+  orig: 78, 116
+  offset: 0, 0
+  index: -1
+ring_L_00
+  rotate: false
+  xy: 176, 617
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+ring_L_01
+  rotate: true
+  xy: 452, 70
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+ring_L_03
+  rotate: false
+  xy: 204, 626
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+ring_L_hold
+  rotate: false
+  xy: 420, 653
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+ring_R_00
+  rotate: false
+  xy: 2, 2
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+ring_R_01
+  rotate: false
+  xy: 452, 51
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+ring_R_03
+  rotate: true
+  xy: 285, 86
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+ring_R_hold
+  rotate: false
+  xy: 37, 2
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+stick_L
+  rotate: false
+  xy: 452, 92
+  size: 24, 67
+  orig: 24, 67
+  offset: 0, 0
+  index: -1
+stick_L2
+  rotate: true
+  xy: 59, 6
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+stick_R
+  rotate: true
+  xy: 298, 113
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+stick_R2
+  rotate: false
+  xy: 420, 674
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+stick_shade_L
+  rotate: false
+  xy: 298, 165
+  size: 60, 53
+  orig: 88, 59
+  offset: 17, 0
+  index: -1
+stick_shade_R
+  rotate: true
+  xy: 420, 704
+  size: 71, 51
+  orig: 88, 70
+  offset: 4, 13
+  index: -1
+

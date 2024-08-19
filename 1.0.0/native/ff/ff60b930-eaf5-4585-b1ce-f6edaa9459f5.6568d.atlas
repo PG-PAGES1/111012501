@@ -1,0 +1,154 @@
+
+reel_lion.png
+size: 946,319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brow_filler
+  rotate: false
+  xy: 726, 104
+  size: 86, 18
+  orig: 86, 18
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: true
+  xy: 109, 15
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: false
+  xy: 820, 12
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: true
+  xy: 2, 15
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 659, 4
+  size: 65, 108
+  orig: 65, 108
+  offset: 0, 0
+  index: -1
+eyelid_L00
+  rotate: true
+  xy: 567, 7
+  size: 98, 90
+  orig: 98, 90
+  offset: 0, 0
+  index: -1
+eyelid_L00x
+  rotate: true
+  xy: 375, 2
+  size: 99, 96
+  orig: 99, 96
+  offset: 0, 0
+  index: -1
+eyelid_L01
+  rotate: true
+  xy: 880, 143
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+eyelid_R00
+  rotate: true
+  xy: 726, 7
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+eyelid_R00x
+  rotate: false
+  xy: 473, 6
+  size: 92, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+eyelid_R01
+  rotate: true
+  xy: 880, 186
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 87
+  size: 230, 179
+  orig: 230, 179
+  offset: 0, 0
+  index: -1
+forehead
+  rotate: true
+  xy: 569, 114
+  size: 203, 129
+  orig: 203, 129
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 199, 2
+  size: 174, 99
+  orig: 174, 99
+  offset: 0, 0
+  index: -1
+lion_body
+  rotate: true
+  xy: 183, 103
+  size: 214, 196
+  orig: 214, 196
+  offset: 0, 0
+  index: -1
+lion_body_butt
+  rotate: true
+  xy: 700, 124
+  size: 193, 178
+  orig: 193, 178
+  offset: 0, 0
+  index: -1
+lion_body_mid
+  rotate: true
+  xy: 381, 107
+  size: 210, 186
+  orig: 210, 186
+  offset: 0, 0
+  index: -1
+lion_body_tail
+  rotate: true
+  xy: 880, 227
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 880, 102
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+nose_ball_L
+  rotate: false
+  xy: 891, 58
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+nose_ball_R
+  rotate: false
+  xy: 891, 14
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+
